@@ -1,3 +1,4 @@
+sudo -i
 cd /tmp
 mkdir mine
 cd mine
